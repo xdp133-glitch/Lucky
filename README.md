@@ -13,3 +13,5 @@ Project generator with automatic Markdown-based structure creation.
 Ready-to-use project templates to get started quickly.
 
 Lucky was created to meet the daily needs of mobile developers, allowing you to code, organize, and manage projects directly from your phone without sacrificing power or flexibility
+
+You can download the release now, and feel free to share your feedback! 😄
