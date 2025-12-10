@@ -40,21 +40,6 @@ At its core, `lucky` combines a powerful code editor with seamless remote server
 *   **Markdown-Defined Structure**: Templates use a YAML front matter for metadata and a Markdown body to define the folder and file structure.
 *   **Categorization & Preview**: Templates are organized by category, and you can preview the project structure before generation.
 
-## Getting Started
-
-### Prerequisites
-
-- Flutter SDK installed on your machine.
-
-### Installation
-
-1.  Clone the repo: `git clone https://github.com/your_username/flutter_folder_creator.git`
-2.  Navigate to the directory: `cd flutter_folder_creator`
-3.  Install dependencies: `flutter pub get`
-4.  Run the app: `flutter run`
-
-## Workflow Example
-
 1.  **Configure SSH**: Go to the **SSH Settings** page to enter your server credentials. Test and save your configuration.
 2.  **Generate a Project**: Navigate to the **Templates** section and generate a new web project.
 3.  **Start Editing**: The project opens in the **Editor**. Open an HTML file.
