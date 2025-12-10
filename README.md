@@ -1,4 +1,4 @@
-# Lucky - Project Generator & Mini-IDE
+ # Lucky - Project Generator & Mini-IDE
 
 An application to generate, manage, and edit projects, with a powerful suite of tools for developers, including a Monaco-based code editor, live web preview, and integrated SSH for remote deployment.
 
