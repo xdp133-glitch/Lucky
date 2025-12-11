@@ -56,6 +56,21 @@ At its core, `lucky` combines a powerful code editor with seamless remote server
 *   `assets/`: Static assets.
     *   `templates_catalog/`: Project templates.
     *   `monaco/`: Assets for the Monaco web editor.
+ 
+    
+IMG
+<img width="720" height="1600" alt="v" src="https://github.com/user-attachments/assets/24ffcb5c-2e57-4ec2-82ed-f29dc2462191" />
+
+
+<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/35682413-ea4e-4e63-b5b0-b14b6ad6dbc6" />
+
+<img width="720" height="1600" alt="c" src="https://github.com/user-attachments/assets/fb910b26-9686-46e2-9a33-1238202ad677" />
+
+<img width="720" height="1600" alt="Screenshot_20251113-130756" src="https://github.com/user-attachments/assets/4df04144-ba11-4727-894c-fb117abb6475" />
+
+<img width="720" height="1600" alt="page" src="https://github.com/user-attachments/assets/cf9d59b2-a9ff-4f87-b488-8701707f7539" />
+
+
 
 You can download the release now, and feel free to share your feedback! 😄
 
